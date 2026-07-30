@@ -1,0 +1,182 @@
+<!-- Featured Apps -->
+
+<div class="app-card" data-category="social">
+
+<img src="assets/icons/talksom.png" alt="TalkSom">
+
+<div class="app-info">
+
+<h3>TalkSom</h3>
+
+<p>Somali Social Media Platform</p>
+
+<span>⭐ 4.9 • 10K+ Downloads</span>
+
+</div>
+
+<div class="buttons">
+
+<a href="apps/talksom.html" class="details">
+Details
+</a>
+
+<a href="downloads/TalkSom.apk" class="download">
+Download
+</a>
+
+</div>
+
+</div>
+
+<div class="app-card" data-category="social">
+
+<img src="assets/icons/whatsapp.png">
+
+<div class="app-info">
+
+<h3>WhatsApp</h3>
+
+<p>Messaging & Calls</p>
+
+<span>⭐ 4.8</span>
+
+</div>
+
+<div class="buttons">
+
+<a href="apps/whatsapp.html" class="details">
+Details
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.whatsapp" class="download">
+Open
+</a>
+
+</div>
+
+</div>
+
+<div class="app-card" data-category="social">
+
+<img src="assets/icons/telegram.png">
+
+<div class="app-info">
+
+<h3>Telegram</h3>
+
+<p>Fast Messaging</p>
+
+<span>⭐ 4.8</span>
+
+</div>
+
+<div class="buttons">
+
+<a href="apps/telegram.html" class="details">
+Details
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=org.telegram.messenger" class="download">
+Open
+</a>
+
+</div>
+
+</div>
+
+<div class="app-card" data-category="video">
+
+<img src="assets/icons/tiktok.png">
+
+<div class="app-info">
+
+<h3>TikTok</h3>
+
+<p>Short Videos</p>
+
+<span>⭐ 4.7</span>
+
+</div>
+
+<div class="buttons">
+
+<a href="apps/tiktok.html" class="details">
+Details
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically" class="download">
+Open
+</a>
+
+</div>
+
+</div>
+
+<div class="app-card" data-category="social">
+
+<img src="assets/icons/facebook.png">
+
+<div class="app-info">
+
+<h3>Facebook</h3>
+
+<p>Social Network</p>
+
+<span>⭐ 4.7</span>
+
+</div>
+
+<div class="buttons">
+
+<a href="apps/facebook.html" class="details">
+Details
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.facebook.katana" class="download">
+Open
+</a>
+
+</div>
+
+</div>
+
+<div class="app-card" data-category="social">
+
+<img src="assets/icons/instagram.png">
+
+<div class="app-info">
+
+<h3>Instagram</h3>
+
+<p>Photos & Reels</p>
+
+<span>⭐ 4.8</span>
+
+</div>
+
+<div class="buttons">
+
+<a href="apps/instagram.html" class="details">
+Details
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.instagram.android" class="download">
+Open
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 TalkSom Store. All Rights Reserved.</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
