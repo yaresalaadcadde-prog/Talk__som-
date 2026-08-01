@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TalkSom Download Store</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">
+        <h1>TalkSom Store</h1>
+    </div>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Apps</a>
+        <a href="#">Games</a>
+        <a href="#">About</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>Download Somali Apps</h2>
+    <p>Fast, Safe & Free APK Downloads</p>
+
+    <input type="text" id="search" placeholder="Search Apps...">
+</section>
+
+<section class="apps">
+
+    <div class="card">
+        <img src="assets/talksom.png" alt="TalkSom">
+
+        <h3>TalkSom</h3>
+
+        <p>Somali Social Media App</p>
+
+        <a href="files/TalkSom.apk" download>
+            <button>⬇ Download APK</button>
+        </a>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 TalkSom Store. All Rights Reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
